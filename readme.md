@@ -29,5 +29,5 @@ Clone this repository to your `Modules` folder with directory name: `PowerWoL`
 Example:
 ```PowerShell
 cd C:\Users\<username>\Documents\WindowsPowerShell\Modules
-git clone https://github.com/Skryptek/PowerWoL
+git clone https://github.com/Skryptek-LLC/PowerWoL
 ```
